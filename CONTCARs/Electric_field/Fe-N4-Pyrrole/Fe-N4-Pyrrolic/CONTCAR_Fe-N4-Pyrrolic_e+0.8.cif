@@ -1,0 +1,49 @@
+data_e-0.8
+_audit_creation_date              2024-12-22
+_audit_creation_method            'Materials Studio'
+_symmetry_space_group_name_H-M    'P1'
+_symmetry_Int_Tables_number       1
+_symmetry_cell_setting            triclinic
+loop_
+_symmetry_equiv_pos_as_xyz
+  x,y,z
+_cell_length_a                    8.3960
+_cell_length_b                    8.3960
+_cell_length_c                    20.0407
+_cell_angle_alpha                 90.0000
+_cell_angle_beta                  90.0000
+_cell_angle_gamma                 90.0000
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+_atom_site_adp_type
+_atom_site_occupancy
+C001   C     0.49843   0.08621   0.14108   1.00000  Uiso   1.00
+C002   C     0.35216   0.16816   0.14121   1.00000  Uiso   1.00
+C003   C     0.64475   0.16817   0.14072   1.00000  Uiso   1.00
+C004   C     0.79350   0.91587   0.14036   1.00000  Uiso   1.00
+C005   C     0.79351   0.08382   0.14033   1.00000  Uiso   1.00
+C006   C     0.91446   0.20478   0.14039   1.00000  Uiso   1.00
+C007   C     0.83011   0.35354   0.14066   1.00000  Uiso   1.00
+C008   C     0.20338   0.08382   0.14086   1.00000  Uiso   1.00
+C009   C     0.08242   0.20478   0.14066   1.00000  Uiso   1.00
+C010   C     0.16676   0.35355   0.14105   1.00000  Uiso   1.00
+C011   C     0.08481   0.49983   0.14103   1.00000  Uiso   1.00
+C012   C     0.16677   0.64614   0.14110   1.00000  Uiso   1.00
+C013   C     0.35214   0.83151   0.14125   1.00000  Uiso   1.00
+C014   C     0.20338   0.91586   0.14089   1.00000  Uiso   1.00
+C015   C     0.08242   0.79490   0.14072   1.00000  Uiso   1.00
+C016   C     0.64474   0.83151   0.14076   1.00000  Uiso   1.00
+C017   C     0.83011   0.64614   0.14071   1.00000  Uiso   1.00
+C018   C     0.91447   0.79490   0.14044   1.00000  Uiso   1.00
+C019   C     0.49845   0.91348   0.14111   1.00000  Uiso   1.00
+C020   C     0.91208   0.49985   0.14082   1.00000  Uiso   1.00
+N001   N     0.66456   0.33372   0.14075   1.00000  Uiso   1.00
+N002   N     0.33233   0.33372   0.14122   1.00000  Uiso   1.00
+N003   N     0.33233   0.66597   0.14127   1.00000  Uiso   1.00
+N004   N     0.66456   0.66596   0.14080   1.00000  Uiso   1.00
+Fe001  Fe    0.49844   0.49984   0.14172   1.00000  Uiso   1.00
