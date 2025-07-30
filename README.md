@@ -1,2 +1,8 @@
-# Nitrate_Reduction_to_Ammonia_on_M-N-C_Catalysts
- Structural Configurations of M-N-C Catalysts and NO3RR Intermediates. Explore an online database dedicated to M-N-C catalysts involved in nitrate reduction reactions (NO3RR) through the Digital Catalysis Platform (DigCat): https://www.digcat.org/.
+# Nitrate Reduction to Ammonia on M-N-C Catalysts
+ This repo contains structural configurations of M-N-C Catalysts and NO<sub>3</sub>RR Intermediates. Source data and microkinetic modeling code can be accessed via the Digital Catalysis Platform ([DigCat](https://www.digcat.org/)). **For data access, please contact the platform administrators.**
+
+ # References
+ - Zhang D, Li H. Digital Catalysis Platform (DigCat): A Gateway to Big Data and AI-Powered Innovations in Catalysis. ChemRxiv. 2024.
+ - Jiang Q, Gu M, Pei S, et al. The Key Steps and Distinct Performance Trends of Pyrrolic vs Pyridinic M–N–C Catalysts in Electrocatalytic Nitrate Reduction. *Journal of the American Chemical Society*, 2024, 147 (29), 26029-26039.
+
+
